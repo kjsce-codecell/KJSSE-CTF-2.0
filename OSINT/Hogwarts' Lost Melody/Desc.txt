@@ -1,0 +1,11 @@
+This enchanted melody holds a hidden secret.
+
+Note: Remove special characters like "!@#$%^&*(),./<>?;:'" from the flag.
+
+Flag format: KJSSE_CTF{<Name_of_the_song>+<Name of the artist/Band>}
+
+Example:-
+Song name = Hamari Adhuri Kahani
+Artist name = Arijit Singh
+
+Flag:- KJSSE_CTF{Hamari_Adhuri_Kahani_Arijit_Singh}
